@@ -1,0 +1,1 @@
+(-m.rotation+45)*(Math.PI/180)), m.position.y-30*Math.cos((-m.rotation+45)*(Math.PI/180)), 30, 30)
